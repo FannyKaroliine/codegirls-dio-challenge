@@ -1,2 +1,2 @@
 # codegirls-dio-challenge
-Primeiro desafio de projeto - Git
+Primeiro desafio de projeto - Git/GitHub
